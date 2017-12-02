@@ -1,0 +1,14 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "description": "Day 2 Advent of code 2017",
+  "main": "day2.js",
+  "scripts": {
+    "test": "qunit test/*.js"
+  },
+  "author": "mandre",
+  "license": "ISC",
+  "dependencies": {
+    "qunit": "^2.4.1"
+  }
+}
