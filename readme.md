@@ -1,2 +1,2 @@
-Day 1: Java
-Day 2: Javascript
+Day 1: Java<br/>
+Day 2: Javascript<br/>
