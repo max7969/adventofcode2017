@@ -19,3 +19,4 @@ let input = [
     "37 1069 166 1037 172 258 1071 90 497 1219 145 1206 143 153 1067 510"
 ]
 console.log("Result part 1 :" + day2.part1(input));
+console.log("Result part 2 :" + day2.part2(input));
